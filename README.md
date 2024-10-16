@@ -90,11 +90,11 @@ El jugador asume el rol de un piloto novato, **Jhon**, que busca ganar el campeo
 - Personajes no jugables: Rivales.
   
 ### Reglas de Juego.
-1.- El juego seguirá reglas de carreras tradicionales: clasificaciones, penalizaciones por atajos.
-2.- El jugador principal deberá llegar a la meta como sea posible.
-3.- No puede desbloquear niveles sin antes concluir el anterior o actual.
-4.- El piloto podrá aplicar cualquier maniobra en el control de manejo para quedar en los primeros lugares.
-5.- Si el piloto no concluye en los primeros 3 lugares no podrá avanzar de nivel.
+1- El juego seguirá reglas de carreras tradicionales: clasificaciones, penalizaciones por atajos.
+2- El jugador principal deberá llegar a la meta como sea posible.
+3- No puede desbloquear niveles sin antes concluir el anterior o actual.
+4- El piloto podrá aplicar cualquier maniobra en el control de manejo para quedar en los primeros lugares.
+5- Si el piloto no concluye en los primeros 3 lugares no podrá avanzar de nivel.
 
 ### Pantallas de Juego
 
