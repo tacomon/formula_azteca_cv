@@ -99,8 +99,11 @@ El jugador asume el rol de un piloto novato, **Jhon**, que busca ganar el campeo
 ### Pantallas de Juego
 
 Aquí hay algunas imágenes de propuesta de "Fórmula Azteca":
+
 ![Sprint 1](img/sprint1)
+
 ![Sprint 2](img/sprint2)
+
 ![Sprint 3](img/sprint3)
 
 ## Planificación
@@ -108,7 +111,9 @@ Aquí hay algunas imágenes de propuesta de "Fórmula Azteca":
 En el desarrollo de "Fórmula Azteca", aplicamos la metodología Scrum utilizando Asana para gestionar eficientemente nuestro proceso. Organizamos tareas en sprints de 3 semanas, comenzando con una reunión de planificación para definir características y mejoras. Cada miembro del equipo trabaja en subtareas específicas. Al final de cada sprint, evaluamos lo logrado y buscamos oportunidades de mejora. Esto nos permite adaptarnos rápidamente y avanzar efectivamente en el desarrollo del juego. Puedes acceder a nuestra plataforma en Asana aquí: ![Asana - Formula Azteca](https://app.asana.com/0/1208365175459765/1208364767139028)
 
 ### Pantallas de diagrama Gannt
+
 ![Carrera en Pista](img/pista)
+
 ![Jhon en Acción](img/jhon)
 
 ## Código Fuente
