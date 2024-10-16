@@ -20,16 +20,16 @@ Aprender y mejorar habilidades en el desarrollo de videojuegos, enfocándose en 
 ## Introducción
 
 ### Formula Azteca
-#### Objetivo de Fórmula Azteca
+### Objetivo de Fórmula Azteca
 -  Convertirse en el campeón de las carreras superando desafíos en circuitos inspirados en la civilización azteca, desbloqueando mejoras y vehículos especiales, y demostrando habilidad y estrategia para dominar las pistas y vencer a los oponentes.
-#### Plataforma
+### Plataforma
   - "Fórmula Azteca" es un juego de carreras en 3D con autos estilo Fórmula 1. El proyecto busca ofrecer una experiencia inmersiva y desafiante, combinando velocidad, habilidad y estrategia. Además, sirve como una oportunidad para que el equipo aprenda y mejore sus habilidades en el desarrollo de videojuegos en 3D.
-#### Género
+### Género
   - Carreras. El juego se enfocará en ofrecer una experiencia de carreras de alta velocidad, con énfasis en la precisión y las habilidades del jugador.
-#### Clasificación 
+### Clasificación 
   - Es para todos los usuarios (Everyone)<p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWzD_U1D4NeQemONLvMnfoR3gKrJEmsAP6xA&s"/></p> 
 
-#### Historia del Juego
+### Historia del Juego
 
 El jugador asume el rol de un piloto novato, **Jhon**, que busca ganar el campeonato mundial enfrentándose a desafíos y rivales en diferentes pistas alrededor del mundo.
 
@@ -84,19 +84,19 @@ El jugador asume el rol de un piloto novato, **Jhon**, que busca ganar el campeo
 **Jhon** (pensando en voz alta):
 > "Lo logré... ¡Soy el campeón!"
 
-#### Personajes
+### Personajes
 - Personaje principal: Jhon el piloto novato que controla el jugador.
 - Enemigos: Rivales dentro de la pista, cada uno con su estilo de manejo y dificultad.
 - Personajes no jugables: Rivales.
   
-#### Reglas de Juego.
+### Reglas de Juego.
 1.- El juego seguirá reglas de carreras tradicionales: clasificaciones, penalizaciones por atajos.
 2.- El jugador principal deberá llegar a la meta como sea posible.
 3.- No puede desbloquear niveles sin antes concluir el anterior o actual.
 4.- El piloto podrá aplicar cualquier maniobra en el control de manejo para quedar en los primeros lugares.
 5.- Si el piloto no concluye en los primeros 3 lugares no podrá avanzar de nivel.
 
-#### Pantallas de Juego
+### Pantallas de Juego
 
 Aquí hay algunas imágenes de propuesta de "Fórmula Azteca":
 ![Sprint 1](img/sprint1)
@@ -104,10 +104,10 @@ Aquí hay algunas imágenes de propuesta de "Fórmula Azteca":
 ![Sprint 3](img/sprint3)
 
 ## Planificación
-#### Plan de creación de VideoJuego.
+### Plan de creación de VideoJuego.
 En el desarrollo de "Fórmula Azteca", aplicamos la metodología Scrum utilizando Asana para gestionar eficientemente nuestro proceso. Organizamos tareas en sprints de 3 semanas, comenzando con una reunión de planificación para definir características y mejoras. Cada miembro del equipo trabaja en subtareas específicas. Al final de cada sprint, evaluamos lo logrado y buscamos oportunidades de mejora. Esto nos permite adaptarnos rápidamente y avanzar efectivamente en el desarrollo del juego. Puedes acceder a nuestra plataforma en Asana aquí: ![Asana - Formula Azteca](https://app.asana.com/0/1208365175459765/1208364767139028)
 
-#### Pantallas de diagrama Gannt
+### Pantallas de diagrama Gannt
 ![Carrera en Pista](img/pista)
 ![Jhon en Acción](img/jhon)
 
