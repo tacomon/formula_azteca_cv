@@ -30,20 +30,21 @@ Aprender y mejorar habilidades en el desarrollo de videojuegos, enfocándose en 
 
 ## Introducción
 
-- Formula Azteca
-- Objetivo de Fórmula Azteca: Convertirse en el campeón de las carreras superando desafíos en circuitos inspirados en la civilización azteca, desbloqueando mejoras y vehículos especiales, y demostrando habilidad y estrategia para dominar las pistas y vencer a los oponentes.
-- Plataforma
+### Formula Azteca
+#### Objetivo de Fórmula Azteca
+-  Convertirse en el campeón de las carreras superando desafíos en circuitos inspirados en la civilización azteca, desbloqueando mejoras y vehículos especiales, y demostrando habilidad y estrategia para dominar las pistas y vencer a los oponentes.
+#### Plataforma
   - "Fórmula Azteca" es un juego de carreras en 3D con autos estilo Fórmula 1. El proyecto busca ofrecer una experiencia inmersiva y desafiante, combinando velocidad, habilidad y estrategia. Además, sirve como una oportunidad para que el equipo aprenda y mejore sus habilidades en el desarrollo de videojuegos en 3D.
-- Género
+#### Género
   - Carreras. El juego se enfocará en ofrecer una experiencia de carreras de alta velocidad, con énfasis en la precisión y las habilidades del jugador.
-- Clasificación 
+#### Clasificación 
   - Es para todos los usuarios (Everyone)<p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWzD_U1D4NeQemONLvMnfoR3gKrJEmsAP6xA&s"/></p> 
-- Historia
-## Historia del Juego
+
+- ### Historia del Juego
 
 El jugador asume el rol de un piloto novato, **Jhon**, que busca ganar el campeonato mundial enfrentándose a desafíos y rivales en diferentes pistas alrededor del mundo.
 
-### Escena de Introducción: Bienvenida del Sistema
+#### Escena de Introducción: Bienvenida del Sistema
 **Contexto:** El juego se inicia y el sistema de la competencia saluda a Jhon, dándole la bienvenida a su primera experiencia en las carreras profesionales.
 
 **Sistema** (voz robótica pero amigable):
@@ -55,7 +56,7 @@ El jugador asume el rol de un piloto novato, **Jhon**, que busca ganar el campeo
 **Sistema:**
 > "Recuerda, la concentración y la velocidad son clave. No dejes que la presión te detenga. Buena suerte, piloto."
 
-### Escena 1: Antes de la Primera Carrera
+#### Escena 1: Antes de la Primera Carrera
 **Contexto:** El piloto está a punto de competir por primera vez.
 
 **Jhon** (nervioso):
