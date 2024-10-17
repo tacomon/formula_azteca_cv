@@ -106,6 +106,7 @@ Aquí hay algunas imágenes de propuesta de "Fórmula Azteca":
 
 ![Sprint 3](img/sprint3)
 
+---
 ## Planificación
 ### Plan de creación de VideoJuego.
 En el desarrollo de "Fórmula Azteca", aplicamos la metodología Scrum utilizando Asana para gestionar eficientemente nuestro proceso. Organizamos tareas en sprints de 3 semanas, comenzando con una reunión de planificación para definir características y mejoras. Cada miembro del equipo trabaja en subtareas específicas. Al final de cada sprint, evaluamos lo logrado y buscamos oportunidades de mejora. Esto nos permite adaptarnos rápidamente y avanzar efectivamente en el desarrollo del juego. Puedes acceder a nuestra plataforma en Asana aquí: ![Asana - Formula Azteca](https://app.asana.com/0/1208365175459765/1208364767139028)
@@ -116,8 +117,10 @@ En el desarrollo de "Fórmula Azteca", aplicamos la metodología Scrum utilizand
 
 ![Jhon en Acción](img/jhon)
 
+---
 ## Código Fuente
 * Avance de pista con auto de prueba y algunos objetos ambientales.
 
+---
 ## Autor/es
 Cárdenas Rincón Ma. Concpeción / Ordoñez Osorio C. Alejandro
