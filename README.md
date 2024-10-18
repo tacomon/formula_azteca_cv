@@ -112,6 +112,7 @@ En el desarrollo de "Fórmula Azteca", aplicamos la metodología Scrum utilizand
 ### Pantallas de diagrama Gannt
 
 ![Sprint 1](img/Sprint1.png)
+<p align="center"><img src="img/Sprint1.png"/></p> 
 
 ![Sprint 2](img/Sprint2.png)
 
