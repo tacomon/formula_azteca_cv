@@ -7,7 +7,7 @@ Aprender y mejorar habilidades en el desarrollo de videojuegos, enfocándose en 
 
 <h1 align="center">Formula Azteca</h1>
 <p align="center"> Propuesta de videojuego</p>
-<p align="center"><img src="img/home.jpg"/></p> 
+<p align="center"><img src="img/propuesta.png"/></p> 
 
 ## Tabla de contenidos:
 ---
@@ -98,13 +98,11 @@ El jugador asume el rol de un piloto novato, **Jhon**, que busca ganar el campeo
 
 ### Pantallas de Juego
 
+![Carrera en Pista](img/pista)
+
+![Jhon en Acción](img/jhon)
+
 Aquí hay algunas imágenes de propuesta de "Fórmula Azteca":
-
-![Sprint 1](img/sprint1)
-
-![Sprint 2](img/sprint2)
-
-![Sprint 3](img/sprint3)
 
 ---
 ## Planificación
@@ -113,9 +111,11 @@ En el desarrollo de "Fórmula Azteca", aplicamos la metodología Scrum utilizand
 
 ### Pantallas de diagrama Gannt
 
-![Carrera en Pista](img/pista)
+![Sprint 1](img/Sprint1.png)
 
-![Jhon en Acción](img/jhon)
+![Sprint 2](img/Sprint2.png)
+
+![Sprint 3](img/Sprint3.png)
 
 ---
 ## Código Fuente
