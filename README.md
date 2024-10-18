@@ -17,6 +17,7 @@ Aprender y mejorar habilidades en el desarrollo de videojuegos, enfocándose en 
 - [Autores](#autores)
 - [Copyright](#copyright)
 
+---
 ## Introducción
 
 ### Formula Azteca
@@ -96,12 +97,6 @@ El jugador asume el rol de un piloto novato, **Jhon**, que busca ganar el campeo
 - El piloto podrá aplicar cualquier maniobra en el control de manejo para quedar en los primeros lugares.
 - Si el piloto no concluye en los primeros 3 lugares no podrá avanzar de nivel.
 
-### Pantallas de Juego
-
-<p align="center"><img src="img/jhon.jpg"/></p>
-
-Aquí hay algunas imágenes de propuesta de "Fórmula Azteca":
-
 ---
 ## Planificación
 ### Plan de creación de VideoJuego.
@@ -117,7 +112,18 @@ En el desarrollo de "Fórmula Azteca", aplicamos la metodología Scrum utilizand
 
 ---
 ## Código Fuente
-* Avance de pista con auto de prueba y algunos objetos ambientales.
+* Avance de pista con auto de prueba y algunos objetos ambientales en su entorno de la pista (gradas para el publico) ademas de el movimiento del carro avance de forma que pueda terminar la ruta de la pista completa.
+
+[Archivo Assets](./formulaAzteca.unitypackage)
+
+### Pantallas de Juego
+Aquí hay algunas imágenes de propuesta de "Fórmula Azteca":
+
+<p align="center"><img src="img/pista.png"/></p>
+
+<p align="center"><img src="img/pista2.png"/></p>
+
+<p align="center"><img src="img/pistacompleta.png"/></p>
 
 ---
 ## Autor/es
