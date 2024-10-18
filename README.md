@@ -98,9 +98,7 @@ El jugador asume el rol de un piloto novato, **Jhon**, que busca ganar el campeo
 
 ### Pantallas de Juego
 
-![Carrera en Pista](img/pista)
-
-![Jhon en Acción](img/jhon)
+<p align="center"><img src="img/jhon.jpg"/></p>
 
 Aquí hay algunas imágenes de propuesta de "Fórmula Azteca":
 
@@ -111,12 +109,11 @@ En el desarrollo de "Fórmula Azteca", aplicamos la metodología Scrum utilizand
 
 ### Pantallas de diagrama Gannt
 
-![Sprint 1](img/Sprint1.png)
-<p align="center"><img src="img/Sprint1.png"/></p> 
+<p align="center"><img src="img/Sprint1.png"/></p>
 
-![Sprint 2](img/Sprint2.png)
+<p align="center"><img src="img/Sprint2.png"/></p>
 
-![Sprint 3](img/Sprint3.png)
+<p align="center"><img src="img/Sprint3.png"/></p>
 
 ---
 ## Código Fuente
